@@ -202,7 +202,7 @@ TimeSeries-Anomaly-Detection/
 **Sohan Arun**  
 Department of Computer Science  
 Blekinge Institute of Technology  
-📧 soar24@student.bth.se
+📧 Sohanoffice46@gmail.com
 
 
 ---
